@@ -1,5 +1,5 @@
 # Brock-Mills-Photography Web App
-* Web application built for Brock Mills.
+Web application built for Brock Mills.
 
 # What I Learned
 * Create wireframes mockup prototypes for UI
